@@ -1,4 +1,5 @@
 dnsutils
 iproute2
 iputils-ping
+rsync
 sudo
